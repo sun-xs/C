@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{4a7ce133-e694-43b9-8dad-f0752605b3c2}</ProjectGuid>
-    <RootNamespace>孜孜不倦</RootNamespace>
+    <ProjectGuid>{89e5cade-2b05-419b-95fe-2128a6861911}</ProjectGuid>
+    <RootNamespace>字符串函数使用</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="作业.c" />
     <ClCompile Include="字符串函数.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
